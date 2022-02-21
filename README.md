@@ -1,2 +1,2 @@
 My first readme
-It's now updated
+is now updated
